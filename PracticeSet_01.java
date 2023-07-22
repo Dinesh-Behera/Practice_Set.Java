@@ -26,7 +26,7 @@ public class PracticeSet_01 {
            System.out.println("Enter the kilometers");
            Scanner sc = new Scanner(System.in);
            double kilometers = sc.nextDouble();
-           double miles = kilometers * 0.621371;   1 kilometer is approximately 0.621371 miles
+           double miles = kilometers * 0.621371;   //1 kilometer is approximately 0.621371 miles
            System.out.println(kilometers + " is equals to " +miles);
 
 //        Question - 5  Detect whether a number entered by the user is integer or not
