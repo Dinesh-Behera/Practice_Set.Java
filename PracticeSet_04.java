@@ -2,15 +2,16 @@ import java.util.Scanner;
 
 public class PracticeSet_04 {
     public static void main(String[] args) {
-        /* Question - 01
+         Question - 01
 
          What will the output pf this program
          int a = 10;
          if ( a = 11)
              System.out.println("I am 11 ");
          else
-             System.out.println("I am not 11");*/
+             System.out.println("I am not 11");
        // This will through an ERROR!
+        
  // Question - 02
              //  Write a java program to find out whether a student is pass or fail.
             //  If requires total 40% and at least 33% in each subject to pass.Assume 3 subjects and take marks as an input from the user
@@ -31,6 +32,7 @@ public class PracticeSet_04 {
        else {
            System.out.println("You are not passed ! Try again");
        }
+        
  // Question - 03
 
              // Calculate income tax paid by an employee to the government as per the stats mentioned below :-
