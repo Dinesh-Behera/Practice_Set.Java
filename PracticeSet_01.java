@@ -22,7 +22,7 @@ public class PracticeSet_01 {
        String name = sc.next();
        System.out.println(name + " have a good day");
 
-       Question - 4 Convert kilometer to miles
+//       Question - 4 Convert kilometer to miles
            System.out.println("Enter the kilometers");
            Scanner sc = new Scanner(System.in);
            double kilometers = sc.nextDouble();
